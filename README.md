@@ -1,16 +1,45 @@
-## Hi there 👋
-
 <!--
 **VincenzoLivigni/VincenzoLivigni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+<h1 align="center"> 👋 </h1>
+
+<div align="center">
+    <img src=https://github.com/VincenzoLivigni/VincenzoLivigni/blob/main/header.gif />
+</div>
+
+<p align="center"> (Open for Hiring)</p>
+
+<br/>
+
+<h2 align="center"> 👨‍💻 About Me</h2>
+<p align="center">
+  Junior Frontend Developer specializing in React.<br><br>
+  Focused on creating clean, functional, and user-friendly interfaces.<br>
+  Continuously improving my skills through hands-on projects and learning.<br><br>
+  Motivated to grow in a collaborative environment,<br>
+  with strong attention to code quality and user experience.
+</p>
+
+<hr/>
+
+<h2 align="center">🛠️ Tech Skills</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+</p>
+
+<hr/>
+
+<h2 align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/vincenzo-livigni-2206b83a9/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:enzolivigni13@gmail.com?subject=Contatto%20da%20GitHub&body=Ciao%20Vincenzo,"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<hr/>
+
+<h2 align="center">💻 Check Out My Repos ⬇️</h2>
