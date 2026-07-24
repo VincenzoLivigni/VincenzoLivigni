@@ -5,7 +5,7 @@
 <h1 align="center"> 👋 </h1>
 
 <div align="center">
-    <img src=https://github.com/VincenzoLivigni/VincenzoLivigni/blob/main/header.gif />
+    <img src=https://github.com/VincenzoLivigni/VincenzoLivigni/blob/main/header_animation.gif alt="header animation" />
 </div>
 
 <p align="center"> (Open for Hiring)</p>
@@ -14,11 +14,11 @@
 
 <h2 align="center"> 👨‍💻 About Me</h2>
 <p align="center">
-  Junior Frontend Developer specializing in React.<br><br>
-  Focused on building clean, functional, and user-friendly interfaces using modern web technologies.<br>
-  I enjoy working with real projects where I can apply and improve my skills in frontend development and API integration.<br><br>
-  Motivated to grow in a collaborative environment,<br>
-  with strong attention to code quality, user experience, and continuous learning.
+  Junior Full Stack Developer focused on React, JavaScript and modern web technologies.<br><br>
+  I build responsive and user-friendly applications, working across frontend and backend development.<br>
+  Experienced with React, REST APIs, Node.js, Express, and relational databases.<br><br>
+  Passionate about creating real-world projects, improving UI/UX and code quality.<br>
+  Continually expanding my development skills.
 </p>
 
 <hr/>
